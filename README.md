@@ -9,16 +9,16 @@
 
 #### Question 1
 
-A small community has a system that displays residents full biography data and connections. The data is populated through an API that fetches information from the database, refines it, and then provide access to various consumers. Create an API for this system to meet the following requirements:
+A small community has a system that displays its resident's full biography data and family and friends connection. The data is populated through an API that fetches information from the database. Create an Web / Mobile App for this system with following requirements:
 
 1. A user should be able to access the app both on web and mobile devices
 2. The user interface should include easy navigation and how-to-screen
 3. Users should be able to login or register
 4. Users should be able to view their record on the dashboard
-5. The app should have a login strategy and use secured approach
-6. Users should be able to view community news section without login in
-7. The system should handle error properly and prevent data leakages
-8. The system should have a note feature for each logged in user, the note should be able to store draft content and store only after the save button
+5. The app should have a login strategy with security
+6. Users should be able to view community news section without login into the system
+7. The app should handle error properly and prevent data leakages
+8. The app should have a note feature. The note should be able to store draft content that is editable anytime before it is saved.
 
 
 #### Notes
