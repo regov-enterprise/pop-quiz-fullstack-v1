@@ -9,10 +9,10 @@
 
 #### Question 1
 
-A small community has a system that displays its resident's full biography data and family and friends connection. The data is populated through an API that fetches information from the database. Create an Web / Mobile App for this system with following requirements:
+Create an MVP event management review and rating app. Web / Mobile App should have the following requirements:
 
-1. A user should be able to access the app both on web and mobile devices
-2. The user interface should include easy navigation and how-to-screen
+1. A user must register and login to be able to leave review
+2. 
 3. Users should be able to login or register
 4. Users should be able to view their record on the dashboard
 5. The app should have a login strategy with security
