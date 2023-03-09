@@ -36,4 +36,4 @@ Create an MVP event management review and rating app. Web / Mobile App should ha
 1. Email your complete work to techchallenge@regovtech.com & careers@regovtech.com
 2. Submit Github Repo
 
-Good Luck!# pop-quiz-frontend-s-v5
+Good Luck!
