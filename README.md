@@ -19,7 +19,7 @@ Create an MVP for an event management review and rating app. The implementation 
 6. The app should handle error properly and prevent data leakages
 7. The app should have a note feature. The note should be able to store draft content that is editable anytime before it is saved.
 8. Administrators should be able to view review and ratings of all the users.
-9. The API should be either REST or GraphQl
+9. The API should be either REST or GraphQL
 10. Users should be able to forget password during password reset
 
 
