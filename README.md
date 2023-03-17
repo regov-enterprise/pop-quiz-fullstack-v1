@@ -31,7 +31,7 @@ Create an MVP for an event management review and rating app. The implementation 
 - Unit test is an added advantage
 - Add README
 - Produce use case or class diagram for the system architecture 
-- Writing design documents will attract extra points :)
+- Writing design documents will attract extra points :
 
 
 ## Submission process
